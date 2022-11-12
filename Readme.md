@@ -1,7 +1,7 @@
 # ROS2
 
 <div align="center">
-  <img src="https://www.freshconsulting.com/wp-content/uploads/2022/07/ROS-2_logo.png" alt="cplusplus" width="300" height="80"/>
+  <img src="https://www.freshconsulting.com/wp-content/uploads/2022/07/ROS-2_logo.png" alt="cplusplus" width="500" height="150"/>
 </div>
 
 
