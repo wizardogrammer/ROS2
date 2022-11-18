@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ehsan/Documents/GitHub/WizardoRos2/CostumMsg_ws/install/tutorial_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/ehsan/Documents/GitHub/WizardoRos2/CostumMsg_ws/src/cpp_pubsub/include/**",
+        "/home/ehsan/Documents/GitHub/WizardoRos2/CostumMsg_ws/src/cpp_srvcli/include/**",
+        "/home/ehsan/Documents/GitHub/WizardoRos2/CostumMsg_ws/src/more_interfaces/include/**",
+        "/home/ehsan/Documents/GitHub/WizardoRos2/CostumMsg_ws/src/tutorial_interfaces/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
