@@ -3,9 +3,9 @@
 <package format="3">
   <name>py_srvcli</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="57229151+EhsanMousaviMsl@users.noreply.github.com">ehsan</maintainer>
-  <license>TODO: License declaration</license>
+  <description>python client server tutorial</description>
+  <maintainer email="ehsanmousavimsl@gmail.com">ehsan</maintainer>
+  <license>Apache License 2.0</license>
 
   <depend>rclpy</depend>
   <depend>example_interfaces</depend>
